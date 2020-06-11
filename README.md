@@ -1,2 +1,3 @@
 # DesafioMenu
-Desafio da cod3r concluído. O objetivo foi criar um menu utilizando conceitos de HTML, CSS, e um pouco de manipulação da DOM com javascript.
+O objetivo foi criar um menu utilizando conceitos de HTML, CSS, Media Query e um pouco de manipulação da DOM com javascript.
+*Sem utilização de Frameworks e flexbox, e css grid.*
